@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^1.4.0",
     "mobx": "^6.9.0",
     "mobx-logger": "^0.7.1",
     "mobx-react-lite": "^3.4.3",

@@ -8,4 +8,5 @@ if (environment.VITE_APP_MODE === "development") {
   enableLogging();
 }
 
+// custom hook to access store
 export const useStore = () => useContext(rootStoreContext);
